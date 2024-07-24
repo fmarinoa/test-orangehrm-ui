@@ -12,6 +12,7 @@
   "dependencies": {
     "@cucumber/cucumber": "^10.8.0",
     "@playwright/test": "^1.45.3",
-    "playwright": "^1.45.3"
+    "playwright": "^1.45.3",
+    "ts-node": "^10.9.2"
   }
 }
